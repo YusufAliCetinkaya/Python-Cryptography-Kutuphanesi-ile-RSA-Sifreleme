@@ -1,7 +1,4 @@
 # Python-Cryptography-Kutuphanesi-ile-RSA-Sifreleme
-
-Tabii, işte bu projeye uygun bir README metni örneği:
-
 ---
 
 # RSA Şifreleme

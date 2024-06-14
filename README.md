@@ -4,13 +4,13 @@ Tabii, işte bu projeye uygun bir README metni örneği:
 
 ---
 
-# RSA Şifreleme ve Deşifreleme Örneği
+# RSA Şifreleme
 
-Bu proje, Python'un `cryptography` kütüphanesi kullanılarak RSA algoritması ile metin şifreleme ve deşifreleme işlemlerini göstermektedir.
+Bu proje, Python'un `cryptography` kütüphanesi kullanılarak RSA algoritması ile metin şifreleme işlemlerini göstermektedir.
 
 ## Gereksinimler
 
-Projenin çalışması için Python 3 ve `cryptography` kütüphanesinin yüklü olması gerekmektedir. `cryptography` kütüphanesini yüklemek için terminal veya komut istemcisinde şu komutu kullanabilirsiniz:
+Projenin çalışması için Python3 ve `cryptography` kütüphanesinin yüklü olması gerekmektedir. `cryptography` kütüphanesini yüklemek için terminal veya komut istemcisinde şu komutu kullanabilirsiniz:
 
 ```
 pip install cryptography
